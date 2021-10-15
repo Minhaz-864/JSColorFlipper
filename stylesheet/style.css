@@ -1,0 +1,22 @@
+
+  
+
+  
+  h2{
+      position: center;
+      display: flex;
+      justify-content: center;
+      background-color: #cf0606;
+      height: 50px;
+      /* width: 400px; */
+  }
+  #btn{
+      margin-left: 500px;
+      display:flex;
+      justify-content: center ;
+  }
+  #btn1{
+    margin-left: 500px;
+    display:flex;
+    justify-content: center ;
+}
